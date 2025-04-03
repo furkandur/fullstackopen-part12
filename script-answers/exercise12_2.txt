@@ -1,0 +1,19 @@
+Script started on 2025-04-03 19:08:35+03:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="100" LINES="52"]
+]0;furkan@DESKTOP-3364HU6: ~/git-repos/part12-containers-applications/script-answers[01;32mfurkan@DESKTOP-3364HU6[00m:[01;34m~/git-repos/part12-containers-applications/script-answers[00m$ docker container u [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr un ubuntu bash[C[C[C[1@-[1@i[1@t[1@ [C[C[C[C[C[C[C[C[C[C[C
+[?2004h]0;root@0ff23b3057a5: /root@0ff23b3057a5:/# ls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;34mmedia[0m  [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[?2004h]0;root@0ff23b3057a5: /root@0ff23b3057a5:/# cd usr/src/ap  
+[?2004l[?2004h]0;root@0ff23b3057a5: /usr/srcroot@0ff23b3057a5:/usr/src# ls
+[?2004l[?2004h]0;root@0ff23b3057a5: /usr/srcroot@0ff23b3057a5:/usr/src# mkdir app
+[?2004l[?2004h]0;root@0ff23b3057a5: /usr/srcroot@0ff23b3057a5:/usr/src# cd app
+[?2004l[?2004h]0;root@0ff23b3057a5: /usr/src/approot@0ff23b3057a5:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@0ff23b3057a5: /usr/src/approot@0ff23b3057a5:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@0ff23b3057a5: /usr/src/approot@0ff23b3057a5:/usr/src/app# exit
+[?2004lexit
+]0;furkan@DESKTOP-3364HU6: ~/git-repos/part12-containers-applications/script-answers[01;32mfurkan@DESKTOP-3364HU6[00m:[01;34m~/git-repos/part12-containers-applications/script-answers[00m$ exit
+exit
+
+Script done on 2025-04-03 19:09:48+03:00 [COMMAND_EXIT_CODE="0"]
