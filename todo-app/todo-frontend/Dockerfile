@@ -10,8 +10,6 @@ ENV VITE_BACKEND_URL=//localhost:3000
 
 RUN npm ci
 
-RUN npm run build
-
 
 FROM base AS test-stage
 
@@ -20,6 +18,8 @@ ENV NODE_ENV=test
 USER node
 
 RUN npm run test
+
+RUN npm run build
 
 
 FROM nginx:1.25-alpine
