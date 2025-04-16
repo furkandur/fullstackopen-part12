@@ -8,6 +8,8 @@ RUN npm ci --only=production
 
 ENV NODE_ENV=production
 ENV DEBUG=playground:*
+ENV MONGO_URL=mongodb://root:example@localhost:3456/the_database?authSource=admin
+ENV REDIS_URL=//localhost:6379
 
 USER node
 
